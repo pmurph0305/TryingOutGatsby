@@ -2,3 +2,8 @@
   margin: 3rem auto;
   max-width: 600px;
 }
+
+.anotherExample {
+  background-color: whitesmoke;
+  color: darkslategray;
+}
