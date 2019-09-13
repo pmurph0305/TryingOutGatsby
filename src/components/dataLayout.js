@@ -2,6 +2,7 @@ import React from "react"
 import { css } from "@emotion/core"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import { rhythm } from "../utils/typography"
+
 export default ({ children }) => {
   const staticQuery = useStaticQuery(
     graphql`
