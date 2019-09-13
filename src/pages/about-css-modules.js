@@ -2,7 +2,7 @@ import React from "react"
 import styles from "./about-css-modules.module.css"
 import Container from "../components/container"
 //import Layout from "../components/layout"
-console.log(styles)
+//console.log(styles)
 const User = props => (
   <div className={styles.user}>
     <img src={props.avatar} className={styles.avatar} alt="" />

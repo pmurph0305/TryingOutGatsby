@@ -1,6 +1,7 @@
 ---
 title: "Pandas and Apples"
 date: "2017-08-27"
+author: "Jess"
 ---
 
 Do Pandas eat apples? Check out this short video that shows that no! pandas do not
